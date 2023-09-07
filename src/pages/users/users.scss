@@ -1,0 +1,12 @@
+.users {
+  .info {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+  }
+  button {
+    border-radius: 1rem;
+    padding: 5px;
+    cursor: pointer;
+  }
+}
